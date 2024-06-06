@@ -115,3 +115,5 @@ projects:
     github_id: taranjeet/awesome-gpts
     labels: ["python"]
     category: "data-engineering"
+  - name: awesome-topics
+    github_id: mahmoudz/awesome-topics
